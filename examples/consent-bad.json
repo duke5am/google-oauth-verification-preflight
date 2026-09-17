@@ -1,0 +1,10 @@
+{
+  "app_name": "My Super Long Application Name That Will Not Fit On The Consent Screen At All",
+  "support_email": "support@example.com",
+  "homepage_url": "http://localhost:3000",
+  "privacy_policy_url": "http://myapp.example.com/privacy",
+  "authorized_domains": ["example.com"],
+  "scopes": ["openid", "email", "https://www.googleapis.com/auth/gmail.readonly",
+             "https://www.googleapis.com/auth/drive"],
+  "redirect_uris": ["https://otherapp.com/oauth/callback"]
+}

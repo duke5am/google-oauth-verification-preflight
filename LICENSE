@@ -1,0 +1,172 @@
+LICENCE
+=======
+
+Google OAuth Verification Submission Kit
+Version 1.0
+
+Copyright (c) 2025 the pack author. All rights reserved except as expressly granted below.
+
+
+1. WHAT YOU MAY DO
+------------------
+
+You may, for your own personal use and for use within your own company or organisation:
+
+  (a) read, copy, store and print the files in this pack;
+
+  (b) use the templates in this pack to prepare your own Google OAuth verification
+      submission, including for a commercial product that you sell;
+
+  (c) adapt, edit, rewrite and fill in the templates to suit your product, including
+      removing, adding and reordering sections, and changing the wording entirely;
+
+  (d) use the resulting documents commercially. Your finished app description, scope
+      justification, privacy policy, video script and submission material are yours.
+      Nothing in this licence claims any rights over the documents you produce with
+      these templates;
+
+  (e) share the pack internally within your company or organisation, including with
+      employees, contractors and advisers who are working with you on the submission,
+      provided they are bound by confidentiality obligations at least as protective as
+      this licence;
+
+  (f) keep copies for backup and archival purposes.
+
+
+2. WHAT YOU MAY NOT DO
+----------------------
+
+You may not:
+
+  (a) resell, sublicense, rent, lease, lend or redistribute this pack, or any substantial
+      part of it, whether on its own or as part of another product, template bundle,
+      course, membership, "toolkit", or downloadable resource;
+
+  (b) publish this pack, or any substantial part of it, on a website, in a repository,
+      in a newsletter, in a course, or anywhere else that makes it available to people
+      who have not purchased it;
+
+  (c) offer this pack, or any substantial part of it, as a bonus, lead magnet, upsell,
+      or free gift in connection with another product or service;
+
+  (d) claim authorship of this pack, or remove or obscure this licence file;
+
+  (e) sell, license or distribute the templates as templates — that is, redistribute them
+      in a form that is substantially the same as the form in which you received them, so
+      that they function as a substitute for this pack;
+
+  (f) use this pack, or any part of it, to train, fine-tune or otherwise develop a machine
+      learning model or AI system that is offered to third parties as a substitute for
+      this pack.
+
+If you are an agency, consultancy or freelancer: you may use this pack on behalf of your
+clients, and you may include your adapted, filled-in output in the work you deliver to a
+client. You may not deliver this pack itself as a deliverable.
+
+
+3. YOU DO NOT NEED TO ATTRIBUTE
+-------------------------------
+
+You do not have to credit this pack in your submission, your product, or anywhere else.
+The documents you produce using these templates are your own work product. Attribution is
+appreciated but not required, and no attribution is required in any document you submit to
+Google or publish on your site.
+
+
+4. THIRD-PARTY AND GOOGLE RELATIONSHIP
+--------------------------------------
+
+This pack is an independent work. It is not affiliated with, endorsed by, sponsored by, or
+approved by Google LLC or any of its subsidiaries or affiliates. "Google", "Gmail",
+"Google Drive", "Google Calendar", "Google Cloud" and related marks are trademarks of
+Google LLC. They are used in this pack descriptively, to refer to Google's products and
+policies, and their use does not imply any affiliation with or endorsement by Google.
+
+This pack does not reproduce Google's documentation. It references concepts from Google's
+publicly published policies and requirements so that you can find and confirm them
+yourself. Google's requirements, scope classifications, review processes and fees are set
+by Google and change over time. You are responsible for confirming the current
+requirements against Google's own published documentation before you submit anything.
+
+No warranty is given that using this pack will result in verification being granted. No
+approval rate, rejection rate, review duration, assessment fee, or other statistic is
+stated or implied anywhere in this pack.
+
+
+5. NOT LEGAL ADVICE
+-------------------
+
+THIS PACK IS NOT LEGAL ADVICE, AND IT DOES NOT CREATE A LAWYER-CLIENT RELATIONSHIP.
+
+The privacy policy template in this pack (templates/privacy-policy-template.md) and the
+other documents are provided as drafting structures for the Google OAuth verification
+context. They are a starting point, not a finished legal document.
+
+Privacy, data protection and consumer law vary by jurisdiction and change frequently. By
+publishing a privacy policy you take on legal obligations that differ depending on where
+you and your users are located — for example, obligations under the UK GDPR and EU GDPR
+for individuals in the UK and EEA, and under the CCPA/CPRA for California residents, among
+others. A privacy policy also interacts with your customer contracts, your sub-processor
+agreements, and the way your software actually handles data.
+
+YOU MUST HAVE A LAWYER QUALIFIED IN YOUR JURISDICTION (AND, WHERE RELEVANT, IN THE
+JURISDICTIONS OF YOUR USERS) REVIEW YOUR PUBLISHED PRIVACY POLICY AND ANY OTHER LEGAL
+DOCUMENT YOU PRODUCE USING THIS PACK BEFORE YOU PUBLISH OR RELY ON IT.
+
+Nothing in this pack is a substitute for that review. Do not publish a privacy policy
+built from this template without it.
+
+
+6. NO WARRANTY
+--------------
+
+THIS PACK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE, ACCURACY, AND NON-INFRINGEMENT.
+
+The author does not warrant that the information in this pack is accurate, complete or
+current, that it reflects Google's current requirements, or that following it will result
+in verification, approval, or any particular outcome. Google's policies change, and
+information that was correct when this pack was written may no longer be correct.
+
+You are solely responsible for the contents of anything you submit to Google, for the
+accuracy of the statements you make, and for your compliance with Google's policies and
+with applicable law.
+
+
+7. LIMITATION OF LIABILITY
+--------------------------
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE AUTHOR SHALL NOT BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THIS PACK OR THE USE OF THIS PACK.
+
+This includes, without limitation, liability for any loss of profit, loss of revenue, loss
+of business, loss of opportunity, business interruption, loss of data, the cost of any
+security assessment or third-party service, the rejection, delay or withdrawal of any
+verification or approval by Google, the suspension or disabling of any account or
+application, or any indirect, incidental, special, consequential or punitive damages.
+
+Where liability cannot be excluded, the author's total aggregate liability is limited to
+the amount you paid for this pack.
+
+
+8. TERMINATION
+--------------
+
+This licence terminates automatically if you breach any of its terms. On termination you
+must stop using the pack and delete or destroy all copies. Sections 4, 5, 6, 7 and 9
+survive termination. Termination does not affect your rights in documents you created
+using the templates before termination, provided your use complied with this licence.
+
+
+9. GENERAL
+----------
+
+If any provision of this licence is held unenforceable, the remaining provisions remain in
+full force. This licence is the entire agreement between you and the author concerning
+this pack. It is governed by the laws of the author's principal place of business, without
+regard to conflict of law rules.
+
+For licensing questions, including agency and team use beyond the scope set out in section
+1, contact the seller through the store where you purchased this pack.

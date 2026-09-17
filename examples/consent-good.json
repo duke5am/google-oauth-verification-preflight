@@ -1,0 +1,15 @@
+{
+  "app_name": "Acme Invoicing",
+  "support_email": "support@acme.example",
+  "homepage_url": "https://acme.example",
+  "privacy_policy_url": "https://acme.example/privacy",
+  "terms_url": "https://acme.example/terms",
+  "authorized_domains": ["acme.example"],
+  "scopes": ["openid", "email", "profile"],
+  "redirect_uris": ["https://acme.example/oauth/callback"],
+  "scope_justifications": {
+    "openid": "identify the signed-in user",
+    "email": "match the account to an existing Acme tenant",
+    "profile": "display the user's name in the app header"
+  }
+}
