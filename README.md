@@ -84,4 +84,4 @@ Adds the scope decision guide (how to avoid verification entirely — often chea
 than the security assessment), the process walkthrough, and the complete rejection
 catalogue.
 
-→ **Google OAuth Verification Submission Kit**: <!-- GUMROAD-LINK -->
+→ More developer tooling like this: **[duke5am.gumroad.com](https://duke5am.gumroad.com)** <!-- GUMROAD-LINK -->
