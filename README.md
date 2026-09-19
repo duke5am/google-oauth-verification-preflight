@@ -1,5 +1,4 @@
-# oauth-preflight
-
+# google-oauth-verification-preflight
 Check your OAuth consent screen configuration **before** submitting for
 verification, so you are not declined on something mechanical.
 
