@@ -83,4 +83,17 @@ Adds the scope decision guide (how to avoid verification entirely — often chea
 than the security assessment), the process walkthrough, and the complete rejection
 catalogue.
 
+<!-- RELATED:START -->
+
+## Related tools
+
+- **[spf-dkim-dmarc-audit](https://github.com/duke5am/spf-dkim-dmarc-audit)** — Audit SPF, DKIM and DMARC against live DNS, with recursive SPF lookup counting and the exact record to publish. Tested against 124 real domains.
+  *(if you were searching for "spf dkim dmarc check")*
+
+All 28 tools in this set, grouped by what they check: **[dev-tools-index](https://duke5am.github.io/dev-tools-index/)**
+
+If you arrived here searching for one of these, this is the tool: **google oauth verification rejected** · **sensitive scopes verification** · **oauth consent screen requirements** · **casa security assessment**
+
+<!-- RELATED:END -->
+
 → More developer tooling like this: **[duke5am.gumroad.com](https://duke5am.gumroad.com)** <!-- GUMROAD-LINK -->
