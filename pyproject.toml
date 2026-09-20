@@ -1,0 +1,37 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "google-oauth-verification-preflight"
+version = "0.1.0"
+description = "Preflight-check an OAuth consent screen configuration before submitting it for Google verification"
+readme = "README.md"
+requires-python = ">=3.9"
+license = "MIT"
+license-files = ["LICENSE"]
+authors = [{ name = "duke5am" }]
+keywords = [
+  "google", "oauth", "oauth2", "consent-screen", "verification",
+  "sensitive-scopes", "restricted-scopes", "casa", "preflight",
+]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "Operating System :: OS Independent",
+  "Topic :: Software Development :: Quality Assurance",
+  "Topic :: Internet :: WWW/HTTP",
+]
+# No runtime dependencies: the CLI is standard library only, which is a
+# deliberate selling point for this tool. See README.md.
+dependencies = []
+
+[project.scripts]
+google-oauth-verification-preflight = "google_oauth_verification_preflight.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/duke5am/google-oauth-verification-preflight"
+Issues = "https://github.com/duke5am/google-oauth-verification-preflight/issues"
+
+[tool.setuptools]
+packages = ["google_oauth_verification_preflight"]
+include-package-data = true

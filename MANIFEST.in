@@ -1,0 +1,12 @@
+# No runtime data files ship in the wheel. The code in
+# google_oauth_verification_preflight/ reads only the JSON file you pass it, and
+# no CLI flag prints or copies templates/*.md - those are documents a human reads,
+# copies and edits. They still belong in the sdist, which is the full source
+# distribution, so they are listed here as documentation.
+include README.md
+include LICENSE
+include COMMON-REJECTIONS.md
+include PRE-SUBMISSION-CHECKLIST.md
+include templates/*.md
+include check_consent.py
+include examples/*.json

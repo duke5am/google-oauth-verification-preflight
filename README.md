@@ -1,10 +1,24 @@
 # google-oauth-verification-preflight
+
+[![PyPI](https://img.shields.io/pypi/v/google-oauth-verification-preflight)](https://pypi.org/project/google-oauth-verification-preflight/)
+
 Check your OAuth consent screen configuration **before** submitting for
 verification, so you are not declined on something mechanical.
 
+Standard library only — no runtime dependencies at all.
+
 ```bash
+pip install google-oauth-verification-preflight      # from PyPI, Python 3.9+
+google-oauth-verification-preflight consent.json
+
+# or straight from a clone, no install:
+git clone https://github.com/duke5am/google-oauth-verification-preflight
+cd google-oauth-verification-preflight
 python3 check_consent.py consent.json
 ```
+
+The clone and the installed package run the same code: `check_consent.py` is a
+thin wrapper around `google_oauth_verification_preflight/cli.py`.
 
 ```
   ERROR   homepage_url points at localhost - the reviewer cannot reach it, and
