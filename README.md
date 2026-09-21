@@ -110,4 +110,4 @@ If you arrived here searching for one of these, this is the tool: **google oauth
 
 <!-- RELATED:END -->
 
-→ More developer tooling like this: **[duke5am.gumroad.com](https://duke5am.gumroad.com)** <!-- GUMROAD-LINK -->
+→ **[Google OAuth Verification Submission Kit](https://duke5am.gumroad.com/l/24-google-oauth-verification)** — $34 on Gumroad <!-- GUMROAD-LINK -->
